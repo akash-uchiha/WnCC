@@ -25,3 +25,5 @@ We are looking for a python developer with experience in GUI development. You wi
 2. Familiar with GUI concepts.
 3. Experience in Tkinter or PyQt is preferred.
 4. Good understanding of OOPs.
+
+week 0 update
