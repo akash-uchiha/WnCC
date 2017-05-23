@@ -30,3 +30,4 @@ We are looking for a python developer with experience in GUI development. You wi
 * Develop fluency with kivy (GUI development module for python). 
 * Install the necessary API and get the present code working. 
 * Understand the present code.
+* this much work done.
