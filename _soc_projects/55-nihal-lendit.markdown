@@ -12,7 +12,7 @@ ribbon: progress
 stipend: INR 3000
 mentees:
 - Sarthak Khandelwal
-- Yashwardhan Didwania
+- Yashvardhan Didwania
 contact:
 - <a target="_blank" href="https://lendit-kwoc.slack.com/signup">Slack</a>
 - Facebook- <a target="_blank" href="https://www.facebook.com/nihal111">Nihal Singh</a>, <a target="_blank" href="https://www.facebook.com/arpanbnrj9">Arpan Banerjee</a>, <a target="_blank" href="https://www.facebook.com/AkashTrehan21">Akash Trehan</a>
@@ -32,12 +32,34 @@ With this application we aim to create a community where people with similar int
 
 The repository can be found [here](https://github.com/codemaxx/LendIt).
 
-<center>
-<iframe width="800" height="415" src="https://www.youtube.com/embed/LNy_56rEOi4" frameborder="0" allowfullscreen></iframe>
-</center>
-<br/>
+<style>
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<div class = "videowrapper">
+	<iframe width="1024" height="500" src="https://www.youtube.com/embed/LNy_56rEOi4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Week 0
 * In dept discussions were conducted about the details of the project and every single feature.
 * Relevant APIs were searched for.
 * The structure of the database was finalised.
+
+### Week 1
+* Used the APIs, got familiar with them.
+* Compeleted the Facebook OAuth.
+* Finalised the framework for frontend, ReactJS and started it's tutorial.

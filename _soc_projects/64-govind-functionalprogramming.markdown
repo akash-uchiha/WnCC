@@ -25,9 +25,28 @@ Google them.
 [http://www.braveclojure.com/](http://www.braveclojure.com/)
 [https://racket-lang.org/](https://racket-lang.org/)
 
-<h3 id="week-0"><b>Week 0:</b></h3>
-<ul>
-  <li>Mentees explored the differet functional programming languages that could be used for their projects.</li>
-  <li>The libraries available were also explored to find the one best suited for every project.</li>
-  <li>After research and some discussion, most students chose Haskell and started reading up on the syntax and libraries.</li>
-</ul>
+### Week 0:
+  * Mentees explored the differet functional programming languages that could be used for their projects.
+  * The libraries available were also explored to find the one best suited for every project.
+  * After research and some discussion, most students chose Haskell and started reading up on the syntax and libraries.
+
+### Week 1:
+  * Started understanding the syntax of Haskell
+  * Practicing problems on functional programming on Hackerrank
+
+### Week 2:
+  * More problems solved on HackerRank : Functional Programming
+
+### Week 3:
+  * Worked on understanding graphical libraries
+  * Projects started and github repo uploaded for Mid-Term evaluation
+
+# Mid Term Evaluation
+  **Github repositories for projects**
+  * [Ishan Tarunesh](https://github.com/ishan00/Hunger-Games)
+  * [Shubham Anand](https://github.com/shubhamthebest/Magic-Slide-Puzzle)
+
+### Weeks 4-8
+  * The mentees worked on their individual projects/games, learning about new libraries on the go.
+  * Ishan Tarunesh created a survival game similar to the Hunger Games series using the language Racket.
+  * Shubham Anand created a game called Magic Slide Puzzle, also using Racket.
